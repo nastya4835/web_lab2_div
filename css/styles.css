@@ -1,0 +1,10 @@
+.center_div {
+	width: 820px; 
+	background: white; 
+	margin: auto; 
+	padding: 5px;
+}
+
+.red_div {
+	background: red;
+}
