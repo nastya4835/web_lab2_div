@@ -5,8 +5,18 @@
 	padding: 5px;
 }
 
-.red_div {
-	background: red;
+.index_img1 {
+	width: 300px; 
+	height: 216px; 
+	margin: 15px 10px; 
+	float: right;
+}
+
+.index_img2 {
+	width: 400px; 
+	height: 251px; 
+	margin: 15px 25px; 
+	float: right;
 }
 
 .vitamini_img {
@@ -39,4 +49,30 @@
 	float: left;
 	border: 1px solid black;
 	margin: 5px;
+}
+
+.pohudenie_img1 {
+	width: 280px; 
+	height: 216px; 
+	margin: 15px 10px;
+	float: right;
+}
+
+.pohudenie_img2 {
+	width: 200px; 
+	height: 150px; 
+	margin: 15px 10px;
+	float: right;
+}
+
+.pohudenie_img3 {
+	margin: 15px 10px;
+	float: right;
+}
+
+.pohudenie_img5 {
+	width: 350px; 
+	height: 216px; 
+	margin: 15px 10px;
+	float: right;
 }
