@@ -16,3 +16,21 @@
 	margin-left: 20px; 
 	margin-right: 40px;
 }
+
+.sport_img_left {
+	width: 300px; 
+	height: 216px; 
+	margin: 0px 10px; 
+	float: left;
+}
+
+.sport_img_right {
+	width: 300px; 
+	height: 216px; 
+	margin: 15px 10px; 
+	float: right;
+}
+
+.green_text {
+	 color: #10521C;
+}
