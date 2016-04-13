@@ -8,3 +8,11 @@
 .red_div {
 	background: red;
 }
+
+.vitamini_img {
+	width: 270px; 
+	height: 322px; 
+	float: left; 
+	margin-left: 20px; 
+	margin-right: 40px;
+}
