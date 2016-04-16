@@ -93,3 +93,16 @@
 	width: 50%;
 	padding: 4px;
 }
+
+.dieta_cell_img {
+	overflow: hidden;
+}
+
+.dieta_main_div {
+	border-collapse: collapse; 
+	border: 2px solid black;
+}
+
+.dieta_cell_img span {
+	font-size: larger;
+}
