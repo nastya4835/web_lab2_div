@@ -2,22 +2,16 @@
     font-family: myFont;
     src: url(../fonts/PT_Sans-Web-Regular.ttf);
 }
+
 @font-face {
-    font-family: myFontBold;
+    font-family: myFont;
     src: url(../fonts/PT_Sans-Web-Bold.ttf);
+    font-weight: 700;
 }
 
 body {
 	background-color: #4CAF50;
 	font-family: myFont;
-}
-
-b {
-	font-family: myFontBold;
-}
-
-strong {
-	font-family: myFontBold;
 }
 
 .center_div {
