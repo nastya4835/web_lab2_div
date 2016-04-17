@@ -1,8 +1,30 @@
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/PT_Sans-Web-Regular.ttf);
+}
+@font-face {
+    font-family: myFontBold;
+    src: url(../fonts/PT_Sans-Web-Bold.ttf);
+}
+
+body {
+	background-color: #4CAF50;
+	font-family: myFont;
+}
+
+b {
+	font-family: myFontBold;
+}
+
+strong {
+	font-family: myFontBold;
+}
+
 .center_div {
 	width: 820px; 
 	background: white; 
 	margin: auto; 
-	padding: 5px;
+	padding: 10px;
 }
 
 .index_img1 {
